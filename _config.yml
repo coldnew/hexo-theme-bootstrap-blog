@@ -19,7 +19,10 @@ widgets:
 - recent_posts
 about_widget_content: >
   <p>This is <b>DEMO Site</b> for how to use <a href="https://hexo.io/">hexo</a> with <a href="https://orgmode.org">org-mode</a>.
-  For more info, please see this project's <a href="https://github.com/coldnew/hexo-org-example">REAME.md</a>.</p>
+  For more info, please see this project's <a href="https://github.com/coldnew/hexo-org-example">REAME.md</a>.
+  <br><br>
+  Sources: <a href="https://github.com/coldnew/hexo-org-example"> https://github.com/coldnew/hexo-org-example</a>
+  </p>
 
 # widget behavior
 archive_type: 'monthly'
