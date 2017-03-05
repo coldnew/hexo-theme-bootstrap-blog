@@ -26,9 +26,12 @@ archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-42122243-1
 favicon:
 twitter_id:
-google_plus:
+google_plus: https://plus.google.com/u/0/106837301382084981260/posts
 fb_admins:
 fb_app_id:
+
+# Disqus
+disqus_shortname: coldnew
